@@ -1,0 +1,115 @@
+image_size; 512 0 0 0.0
+num_balls; 91 0 0 0.0
+num_electrodes; 3 0 0 0.0
+viscosity; 50 0 0 0.0
+damping; 0.8 0 0 0.0
+equipotentials; 1 0 0 0.0
+restitution; 1 0 0 0.0
+save_pos; 1 0 0 0.0
+
+
+pos_ball; 51 204 5 6
+pos_ball; 51 255 5 6
+pos_ball; 51 306 5 6
+pos_ball; 51 357 5 6
+
+
+
+pos_ball; 102 102 5 6
+pos_ball; 102 153 5 6
+pos_ball; 102 204 5 6
+pos_ball; 102 255 5 6
+pos_ball; 102 306 5 6
+pos_ball; 102 357 5 6
+pos_ball; 102 409 5 6
+
+
+pos_ball; 153 102 5 6
+pos_ball; 153 153 5 6
+pos_ball; 153 204 5 6
+pos_ball; 153 255 5 6
+pos_ball; 153 306 5 6
+pos_ball; 153 357 5 6
+pos_ball; 153 409 5 6
+
+pos_ball; 204 51 5 6
+pos_ball; 204 102 5 6
+pos_ball; 204 153 5 6
+pos_ball; 204 204 5 6
+pos_ball; 204 255 5 6
+pos_ball; 204 306 5 6
+pos_ball; 204 357 5 6
+pos_ball; 204 408 5 6
+pos_ball; 204 459 5 6
+
+pos_ball; 255 51 5 6
+pos_ball; 255 102 5 6
+pos_ball; 255 153 5 6
+pos_ball; 255 204 5 6
+pos_ball; 255 255 5 6
+pos_ball; 255 306 5 6
+pos_ball; 255 357 5 6
+pos_ball; 255 408 5 6
+pos_ball; 255 459 5 6
+
+pos_ball; 306 51 5 6
+pos_ball; 306 102 5 6
+pos_ball; 306 153 5 6
+pos_ball; 306 204 5 6
+pos_ball; 306 255 5 6
+pos_ball; 306 306 5 6
+pos_ball; 306 357 5 6
+pos_ball; 306 408 5 6
+pos_ball; 306 459 5 6
+
+pos_ball; 357 51 5 6
+pos_ball; 357 102 5 6
+pos_ball; 357 153 5 6
+pos_ball; 357 204 5 6
+pos_ball; 357 255 5 6
+pos_ball; 357 306 5 6
+pos_ball; 357 357 5 6
+pos_ball; 357 408 5 6
+pos_ball; 357 459 5 6
+
+pos_ball; 325 51 5 6
+pos_ball; 325 102 5 6
+pos_ball; 325 153 5 6
+pos_ball; 325 204 5 6
+pos_ball; 325 255 5 6
+pos_ball; 325 306 5 6
+pos_ball; 325 357 5 6
+pos_ball; 325 408 5 6
+pos_ball; 325 459 5 6
+
+pos_ball; 408 51 5 6
+pos_ball; 408 102 5 6
+pos_ball; 408 153 5 6
+pos_ball; 408 204 5 6
+pos_ball; 408 255 5 6
+pos_ball; 408 306 5 6
+pos_ball; 408 357 5 6
+pos_ball; 408 408 5 6
+pos_ball; 408 459 5 6
+
+pos_ball; 425 51 5 6
+pos_ball; 425 102 5 6
+pos_ball; 425 153 5 6
+pos_ball; 425 204 5 6
+pos_ball; 425 255 5 6
+pos_ball; 425 306 5 6
+pos_ball; 425 357 5 6
+pos_ball; 425 408 5 6
+pos_ball; 425 459 5 6
+
+pos_ball; 459 102 5 6
+pos_ball; 459 153 5 6
+pos_ball; 459 204 5 6
+pos_ball; 459 255 5 6
+pos_ball; 459 306 5 6
+pos_ball; 459 357 5 6
+pos_ball; 459 408 5 6
+
+pos_electrode; 506 256 10 0
+pos_electrode; 131 472 10 12
+pos_electrode; 131 39 10 12
